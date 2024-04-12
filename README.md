@@ -1,6 +1,6 @@
 ## README
 ## DEBIAN
-apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
+"apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot"
 
 ## UBUNTU
 apt update && apt upgrade -y && update-grub && sleep 2 && reboot
